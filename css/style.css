@@ -476,9 +476,10 @@ main{
         flex-direction: column;
     }
 
-    header>.logo{
+    header a .logo{
         padding: 30px;
         margin: auto;
+        text-align: center;
     }
 
     .menu{
